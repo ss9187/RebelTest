@@ -25,8 +25,8 @@ Test Cases:
     1) Clear Form on Refresh
     2) Tab Index Working Fine. (Accesibilty Measure).
     3) Form fields have aria-label for screen reader access (Accesibilty Measure).
-    4) Form Responsive.
-    5) Back Button Working Properly After Form Succesful/ Unsuccesful Form Submission.
+    4) Form Responsive View.
+    5) Back Button Working Properly After Succesful/ Unsuccesful Form Submission.
 
 Dependenices used :
     1) Axios
@@ -36,6 +36,17 @@ Dependenices used :
     5) Redux
     6) React-Redux
     7) Redux-Thunk
+
+Link to SandBox:
+    https://codesandbox.io/s/6jzylvv5rw
+    
+The code and the corresponding web application can be viewed real time in the sandbox.
+    
+
+
+
+
+
 
 
 
